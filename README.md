@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👋 Hi, I'm Abrham
-- 💻 I love coding
+- 💻 I'm a passionate developer currently learning and working on both front-end and back-end (full stack) technologies
 - 🌱 I’m currently learning Software Engineering at Bahirdar University, Ethiopia
 - 📫 How to reach me: abmubio@gmail.com
 - 🌟 Let's collaborate on amazing projects!
